@@ -1,0 +1,2 @@
+include ':itabsdk'
+rootProject.name = "MyTest"
